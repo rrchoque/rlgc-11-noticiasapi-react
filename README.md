@@ -1,8 +1,35 @@
-# React + Vite
+# Proyecto: Buscador de noticias con una API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto N° 11 del curso [React - La Guía Completa: Hooks Context Redux MERN +15 Apps](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/) de la plataforma Udemy dictado por [Juan Pablo De la torre Valdez](https://www.udemy.com/user/juanpablodelatorrevaldez/).
 
-Currently, two official plugins are available:
+# Tecnologías utilizadas
+Tecnología|Web oficial
+-|-
+React JS|[https://reactjs.org/](https://reactjs.org/)
+Vite|[https://vitejs.dev/](https://vitejs.dev/)
+MUI|[https://mui.com/](https://mui.com/)
+Axios|[https://axios-http.com/docs/intro](https://axios-http.com/docs/intro)
+API Newsapi|[https://newsapi.org/](https://newsapi.org/)
+Custom Hooks||
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Instalación
+
+```bash
+$ npm install
+```
+
+## Ejecutando la aplicación
+
+```bash
+# development
+$ npm run dev
+```
+
+## Crea la aplicación
+
+```bash
+# build
+$ npm run build
+```
+![Alt text](<images/Captura de pantalla de 2023-08-03 00-43-25.png>)
